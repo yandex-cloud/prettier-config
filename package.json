@@ -1,0 +1,13 @@
+{
+  "name": "@yandex-cloud/prettier-config",
+  "version": "1.0.0",
+  "description": "Yandex.Cloud Prettier config, following our styleguide",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
