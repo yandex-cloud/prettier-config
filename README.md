@@ -1,5 +1,7 @@
 # @yandex-cloud/prettier-config
 
+> ⚠️ Repository moved to @gravity-ui/prettier-config
+
 ## Install
 ```
 npm install --save-dev prettier @yandex-cloud/prettier-config
